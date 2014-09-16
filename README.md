@@ -7,4 +7,4 @@ With this manager you'll be able to debug how download are made, and how to hand
 
 Obs.: The file will be divided in the number of parts specified by the user.
 
-Hava fun! ;-)
+Have fun! ;-)
